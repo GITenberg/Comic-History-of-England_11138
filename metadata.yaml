@@ -1,0 +1,31 @@
+_repo: Comic-History-of-England_11138
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nye, Bill
+    aliases:
+    - Nye, Edgar Wilson
+    - Nye, Edgar W. (Edgar Wilson)
+    birthdate: 1850
+    deathdate: 1896
+    gutenberg_agent_id: '2704'
+    url: http://www.gutenberg.org/2009/agents/2704
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Wilson_Nye
+description: ''
+gutenberg_bookshelf:
+- United Kingdom
+- Humor
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11138'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Humor'
+- !lcc 'DA'
+- GITenberg
+title: Comic History of England
+url: http://www.gutenberg.org/ebooks/11138
