@@ -1,5 +1,8 @@
 _repo: Comic-History-of-England_11138
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Nye, Bill
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2704
     wikipedia: http://en.wikipedia.org/wiki/Edgar_Wilson_Nye
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11138#Comic-History-of-England
 gutenberg_bookshelf:
 - United Kingdom
 - Humor
